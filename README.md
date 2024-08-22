@@ -96,6 +96,8 @@ Python evaluate_model.py
 We welcome contributions to improve the project. If you have suggestions, bug fixes, new features please fork the repository and submit a pull request.
 Make sure to follow the coding standards and provide relevant tests.
 
+## Web template
+For the machine learning deployment, this app uses HTML and CSS templates "streamlit"
 
  ## Contact
 
