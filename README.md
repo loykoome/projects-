@@ -97,7 +97,7 @@ We welcome contributions to improve the project. If you have suggestions, bug fi
 Make sure to follow the coding standards and provide relevant tests.
 
 ## Web template
-For the machine learning deployment, this app uses HTML and CSS templates 'streamlit/'
+For the machine learning deployment, this app uses HTML and CSS templates @streamlit
 
  ## Contact
 
