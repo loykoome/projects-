@@ -42,7 +42,7 @@ You can install these dependencies using `pip`:
 
 pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 
- *Installation
+ ## Installation
 
 1. Clone the repository:
    git clone https://github.com/loykoome/loan-prediction-approval.git
@@ -54,7 +54,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
    pip install -r requirements.txt
 
 
- *Usage
+ ## Usage
 
 1. Prepare the Data: Placed my dataset in the `data/` directory. Ensured it is in a format compatible with the provided scripts.
 
@@ -72,32 +72,32 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 
    Ensure that you update the paths to your dataset and any hyperparameters as needed.
 
- *Data
+ ## Data
 
 The dataset used in this project should be in CSV format and include columns relevant to loan applications (e.g., income, credit score, loan amount).
 Sample data can be found in the `data/` directory under the name `Train/Test.csv`.
 
- *Training
+ ## Training
 
 The model is trained using the `train_model.py` script. You can customize hyperparameters and model configurations within this script.
 
 Python
 python train_model.py
 
- *Evaluation
+ ## Evaluation
 
 After training, evaluate the model’s performance using the `evaluate_model.py` script. This script generates metrics to assess model accuracy and other performance indicators.
 
 Python
 Python evaluate_model.py
 
-* Contributing
+## Contributing
 
 We welcome contributions to improve the project. If you have suggestions, bug fixes, new features please fork the repository and submit a pull request.
 Make sure to follow the coding standards and provide relevant tests.
 
 
- *Contact
+ ## Contact
 
 For any questions or issues, please contact:
 
