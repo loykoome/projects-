@@ -103,5 +103,4 @@ For any questions or issues, please contact:
 
 - Email: Loydkooome@gmail.com
 - GitHub: loyd koome https://github.com/loykoome
--Phone 0723101407
 
